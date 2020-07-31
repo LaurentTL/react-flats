@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import FlatList from './flat_list.jsx';
-import SimpleMap from './map.jsx';
+import FlatList from './flat_list';
+import SimpleMap from './map';
 
 class App extends Component {
   render() {
