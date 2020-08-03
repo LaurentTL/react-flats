@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import GoogleMapReact from 'google-map-react';
 
 import FlatList from './flat_list';
-import SimpleMap from './map';
 import flats from '../../data/flats';
 import Marker from './marker';
 
